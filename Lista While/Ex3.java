@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Ex3 {
+public class Main {
 
     public static void main(String[] args){
         
