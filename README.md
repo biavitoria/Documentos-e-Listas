@@ -11,3 +11,6 @@ listas e documentos - java
 
 
 [Lista Do-While.pdf](https://github.com/biavitoria/Documentos-e-Listas/files/7776312/Lista.Do-While.pdf)
+
+
+[Lista For.pdf](https://github.com/biavitoria/Documentos-e-Listas/files/7776317/Lista.For.pdf)
