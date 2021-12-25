@@ -5,3 +5,6 @@ listas e documentos - java
 
 
 [Lista Condicionais - Switch.pdf](https://github.com/biavitoria/Documentos-e-Listas/files/7776285/Lista.Condicionais.-.Switch.pdf)
+
+
+[Lista While.pdf](https://github.com/biavitoria/Documentos-e-Listas/files/7776304/Lista.While.pdf)
