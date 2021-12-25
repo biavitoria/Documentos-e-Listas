@@ -17,3 +17,6 @@ listas resolvidas em java
 
 
 [Lista Vetores.pdf](https://github.com/biavitoria/Documentos-e-Listas/files/7776324/Lista.Vetores.pdf)
+
+
+[Lista Matrizes.pdf](https://github.com/biavitoria/Documentos-e-Listas/files/7776327/Lista.Matrizes.pdf)
