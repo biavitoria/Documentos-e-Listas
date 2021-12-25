@@ -8,3 +8,6 @@ listas e documentos - java
 
 
 [Lista While.pdf](https://github.com/biavitoria/Documentos-e-Listas/files/7776304/Lista.While.pdf)
+
+
+[Lista Do-While.pdf](https://github.com/biavitoria/Documentos-e-Listas/files/7776312/Lista.Do-While.pdf)
