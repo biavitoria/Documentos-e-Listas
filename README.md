@@ -20,3 +20,6 @@ listas resolvidas em java
 
 
 [Lista Matrizes.pdf](https://github.com/biavitoria/Documentos-e-Listas/files/7776327/Lista.Matrizes.pdf)
+
+
+[Lista Strings.pdf](https://github.com/biavitoria/Documentos-e-Listas/files/7776338/Lista.Strings.pdf)
