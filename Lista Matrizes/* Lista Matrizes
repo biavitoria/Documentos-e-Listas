@@ -1,0 +1,17 @@
+Lista - Matrizes (arrays bidimensionais)
+
+1) Faça um programa que preencha uma matriz M (2 x 2), calcule e mostre a matriz R, resultante da multiplicação dos elementos
+de M pelo seu maior elemento.
+
+2) Faça um programa que preencha uma matriz 10 x 3 com as notas de dez alunos em três provas. O programa deverá mostrar um
+relatório com o número de alunos (número da linha) e a prova em que cada aluno obteve a menor nota. Ao final do relatório, 
+deverá mostrar quantos alunos tiveram menor nota em cada uma das provas: na prova 1, na prova 2 e na prova 3.
+
+3) Faça um programa que preencha:
+    • Um vetor com oito posições, contendo nomes de lojas;
+    • Outro vetor com quatro posições, contendo nomes de produtos;
+    • Uma matriz com os preços de todos os produtos em cada loja.
+O programa deverá mostrar todas as relações (nome do produto – nome da loja) em que o preço não ultrapasse R$ 120,00).
+
+4) Crie um programa que carregue uma matriz 3 x 4 com números reais. Utilize um método para copiar todos os valores da matriz 
+para um vetor de doze posições. Este vetor deverá ser mostrado no programa principal
