@@ -1,0 +1,36 @@
+Lista Do-While
+
+1) Faça um programa que receba um número inteiro maior que 1, verifique se o número fornecido é primo ou 
+não e mostre uma mensagem de número primo ou de número não primo.
+Um número é primo quando é divisível apenas por 1 e por ele mesmo.
+
+2) Faça um programa para calcular a área de um triângulo, que não permita a entrada de dados inválidos, ou 
+seja, medidas menores ou iguais a 0.
+
+3) Faça um programa que leia um conjunto não determinado de valores, um de cada vez, e escreva uma tabela 
+com cabeçalho, que deve ser repetido a cada vinte linhas. A tabela deverá conter o valor lido, seu quadrado, seu 
+cubo e sua raiz quadrada. Finalize a entrada de dados com um valor negativo ou zero.
+
+4) Faça um programa que receba vários números, finalizando a entrada de dados com a digitação do número 
+30.000. Calcule e mostre:
+    a) A soma dos números digitados;
+    b) A quantidade de números digitados;
+    c) A média dos números digitados;
+    d) O maior número digitado;
+    e) O menor número digitado;
+    f) A média dos números digitados;
+    g) A porcentagem dos números ímpares entre todos os números digitados.
+    
+5) Faça um programa que receba o valor do salário mínimo, uma lista contendo a quantidade de quilowatts 
+gasta por consumidor e o tipo de consumidor (1- residencial, 2- comercial ou 3- industrial). Termine a entrada 
+de dados com quantidade de quilowatts igual a zero. Calcule e mostre:
+    a) O valor de cada quilowatt, sabendo que o quilowatt custa um oitavo do salário mínimo;
+    b) O valor a ser pago por cada consumidor (conta final mais acréscimo). O acréscimo encontra-se na tabela a seguir:
+    
+     Tipo    % de acréscimo sobre o valor gasto
+      1                   5
+      2                   10
+      3                   15
+      
+    c) O faturamento geral da empresa;
+    d) A quantidade de consumidores que pagam entre R$ 500,00 e R$ 1000,00.
