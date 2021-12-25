@@ -1,0 +1,17 @@
+Lista - Strings
+
+1) Faça um programa que receba uma frase, calcule e mostre a quantidade de palavras da frase digitada.
+
+2) Faça um programa para criptografar uma frase dada pelo usuário. A criptografia troca as vogais da frase por *. 
+Ex.: 
+Frase: EU VOU PARA UMA FESTA 
+Saída: ** V** P*R* *M* F*ST* 
+
+3) Faça um programa que receba uma palavra e verifique se constitui um palíndromo, ou seja, se a palavra escrita do fim para
+o começo fica igual à palavra escrita do começo para o fim. 
+Exemplos: RENNER, ANA, MIRIM, ARARA 
+
+4) Faça um programa que se comporte como vírus, ou seja, que duplique cada uma das palavras digitadas pelo usuário. 
+Exemplo: 
+Frase: EU ESTOU NA ESCOLA 
+Saída: EU EU ESTOU ESTOU NA NA ESCOLA ESCOLA
