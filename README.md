@@ -14,3 +14,6 @@ listas resolvidas em java
 
 
 [Lista For.pdf](https://github.com/biavitoria/Documentos-e-Listas/files/7776317/Lista.For.pdf)
+
+
+[Lista Vetores.pdf](https://github.com/biavitoria/Documentos-e-Listas/files/7776324/Lista.Vetores.pdf)
