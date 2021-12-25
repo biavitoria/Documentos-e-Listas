@@ -1,0 +1,106 @@
+Lista Condicionais – Switch
+
+1) Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual e mostre o 
+cargo, o valor do aumento e seu novo salário. Os cargos estão listados na tabela abaixo.
+
+      Código      Cargo        Percentual
+        1      Escriturário       50%
+        2       Secretário        35%
+        3         Caixa           20%
+        4        Gerente          10%
+        5        Diretor     Não tem aumento
+        
+2) Faça um programa que receba:
+  a. O código de um produto comprado, supondo que a digitação do código do produto seja sempre válida, ou 
+     seja, um número inteiro entre 1 e 10.
+    
+  b. O peso do produto em quilos.
+  
+  c. O código do país de origem, supondo que a digitação do código seja sempre válida, ou seja, um número 
+     inteiro entre 1 e 3.
+      
+Tabelas:
+  Código do país de origem     Imposto
+          1                      0%
+          2                     15%
+          3                     25%
+          
+    Código do produto       Preço por grama
+          1 a 4                   10
+          5 a 7                   25
+          8 a 10                  35
+          
+Calcule e mostre:
+    a) O peso do produto convertido em gramas;
+
+    b) O preço total do produto comprado;
+
+    c) O valor do imposto, sabendo-se que ele é cobrado sobre o preço total do produto comprado e depende do país 
+       de origem;
+
+    d) O valor total (preço total do produto mais imposto).
+
+3) Faça um programa que receba:
+
+      a. O código do estado de origem da carga de um caminhão, supondo que a digitação do código do estado 
+      seja sempre válida, ou seja, um número inteiro entre 1 e 5.
+      
+      b. O peso da carga do caminhão em toneladas.
+      
+      c. O código da carga, supondo que a digitação do código seja sempre válida, ou seja, um número inteiro 
+      entre 10 e 40.
+      
+Tabelas:
+    Código do estado     Imposto
+            1              35%
+            2              25%
+            3              15%
+            4              5%
+            5             ISENTO
+            
+    Código da carga   Preço por grama
+        10 a 20             100
+        21 a 30             250
+        31 a 40             340
+        
+Calcule e mostre:
+    e) O peso da carga do caminhão convertido em quilos;
+
+    f) O preço da carga do caminhão;
+
+    g) O valor do imposto, sabendo-se que o imposto é cobrado sobre o preço da carga do caminhão e depende do 
+    estado de origem;
+
+    h) O valor total transportado pelo caminhão, preço da carga mais imposto.
+
+
+4) Faça um programa que apresente o menu a seguir, permita ao usuário escolher a opção desejada, receba os 
+dados necessários para executar a operação e mostre o resultado. Verifique a possibilidade de opção inválida e não se 
+preocupe com restrições, como salário negativo.
+
+Menu de opções:
+  1. Imposto
+  2. Novo Salário 
+  3. Classificação
+  Digite a opção desejada.
+  
+Na opção 1: receber o salário de um funcionário, calcular e mostrar o valor do imposto usando as regras a seguir:
+
+     Salário                  Imposto
+ Menor que R$ 500,00            5%
+ De R$ 500,00 a R$ 850,00       10%
+  Acima de R$ 850,00            15%
+   
+Na opção 2: receber o salário de um funcionário, calcular e mostrar o valor do novo salário, usando as regras a seguir:
+
+         Salário                           Aumento
+      > R$ 1500,00                        R$ 25,00
+>= R$ 750,00 e <= R$ 1500,00              R$ 50,00
+>= R$ 450,00 e < R$ 750,00                R$ 75,00
+       < R$ 450,00                        R$ 100,00
+       
+Na opção 3: receber o salário de um funcionário e mostrar sua classificação usando a tabela a seguir:
+
+        Salário                    Classificação
+Até R$ 700,00 (inclusive)         Mal remunerado
+  Maiores que R$ 700,00           Bem remunerado
