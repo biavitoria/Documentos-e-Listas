@@ -1,0 +1,38 @@
+Lista Vetores (arrays unidimensionais)
+
+1) Faça um programa que preencha um vetor com oito números inteiros, calcule e mostre dois vetores resultantes. O primeiro 
+vetor resultante deve conter os números positivos, o segundo deve conter os números negativos. Cada vetor resultante vai ter, 
+no máximo, oito posições que poderão não ser completamente utilizadas.
+
+2) Faça um programa que preencha dois vetores, X e Y, com dez números inteiros cada. 
+Calcule e mostre os seguintes vetores resultantes: 
+    a) A soma de X e Y; 
+    b) O produto de X e Y; 
+    
+3) Faça um programa que preencha um vetor com dez números inteiros, calcule e 
+mostre o vetor resultante colocando os elementos em ordem decrescente.
+
+4) Faça um programa que receba a temperatura média de cada mês do ano, armazenando-as em um vetor. Calcule e mostre a maior
+e a menor temperatura do ano e em que mês ocorreram (quando for imprimir, mostrar o mês por extenso: 1- Janeiro, 2- fevereiro,
+...) Desconsidere empates.
+
+5) Faça um programa que contenha um método que receba dois vetores: um vetor “a” de dez elementos inteiros como parâmetro e
+outro vetor “b” que conterá o fatorial de cada elemento do vetor “a” após o término do método. O vetor “b” deverá ser 
+mostrado no programa principal, ou seja, o método não o retornará. 
+
+6) Faça um método que receba como parâmetro um vetor “a” com cinco números posições e promova a ordenação crescente desses 
+números. O programa principal deverá imprimir o vetor ordenado. 
+
+7) Faça um programa que preencha um vetor de inteiros de “n” posições. O usuário é que vai definir o tamanho. Em seguida,
+crie 4 métodos que realizem as seguintes atividades: 
+    a) método que recebe o vetor como parâmetro e retorne o vetor com seus elementos 
+       acrescidos de 2 unidades.
+    
+    b) método que recebe o vetor como parâmetro e mostre o vetor com seus elementos 
+       reduzidos de 1 unidade. 
+    
+    c) método para multiplicar por 2 todos os elementos de um vetor declarado e lido no 
+       próprio método e mostre tanto o vetor original quanto o vetor multiplicado por 2.
+    
+    d) método que recebe o vetor como parâmetro e mostre o vetor com seus elementos 
+       elevados ao quadrado.
